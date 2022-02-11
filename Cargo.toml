@@ -1,0 +1,11 @@
+[package]
+name = "abstract_chearmyp_boundary"
+version = "0.1.0-dev"
+authors = ["Kenneth Trecy Tobias <33564322+KennethTrecy@users.noreply.github.com>"]
+edition = "2021"
+
+[features]
+default = []
+no_std = []
+range_boundary = []
+vec_boundary_collection = []
