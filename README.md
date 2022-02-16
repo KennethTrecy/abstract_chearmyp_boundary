@@ -4,7 +4,9 @@ An abstraction of address boundaries on a source. Initially intended to work wit
 ## Installation
 Add it to the dependencies:
 ```
-abstract_chearmyp_boundary = { git = "http://chearmyp.local/abstract_chearmyp_boundary", tag = "v0.1.0" }
+[dependencies.abstract_chearmyp_boundary]
+git = "https://github.com/KennethTrecy/abstract_chearmyp_boundary"
+tag = "v0.1.0"
 ```
 
 You may also activate all the features:
