@@ -15,8 +15,17 @@ tag = "v0.1.0"
 features = ["no_std", "range_boundary", "vec_boundary_collection"]
 ```
 
+## Origin
+The repository was based from [`filled_toml`] branch of [Feo Template].
+
 ### Documentation
 Run the following on the console:
 ```
 cargo doc --all-features --open
 ```
+
+### Author
+Coded by Kenneth Trecy Tobias.
+
+[`filled_toml`]: https://github.com/KennethTrecy/feo_template/tree/filled_toml
+[Feo Template]: https://github.com/KennethTrecy/feo_template
