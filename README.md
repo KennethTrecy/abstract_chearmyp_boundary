@@ -18,7 +18,7 @@ features = ["no_std", "range_boundary", "vec_boundary_collection"]
 ```
 
 ## Origin
-The repository was based from [`filled_toml`] branch of [Feo Template].
+The repository was based from [`filled_bare_metal`] branch of [Feo Template].
 
 ### Documentation
 Run the following on the console:
@@ -29,5 +29,5 @@ cargo doc --all-features --open
 ### Author
 Coded by Kenneth Trecy Tobias.
 
-[`filled_toml`]: https://github.com/KennethTrecy/feo_template/tree/filled_toml
+[`filled_bare_metal`]: https://github.com/KennethTrecy/feo_template/tree/filled_bare_metal
 [Feo Template]: https://github.com/KennethTrecy/feo_template
