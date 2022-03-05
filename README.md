@@ -18,7 +18,7 @@ features = ["no_std", "range_boundary", "vec_boundary_collection"]
 ```
 
 ## Origin
-The repository uses some parts of template from [`filled_bare_metal`] branch of [Feo Template].
+Some parts of the repository was based from [`filled_bare_metal`] branch of [Feo Template].
 
 ### Documentation
 Run the following on the console:
