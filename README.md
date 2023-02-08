@@ -73,8 +73,8 @@ Read the [contributing guide] for different ways to contribute in the project.
 ### Author
 Abstract Chearmyp Boundary was created by Kenneth Trecy Tobias.
 
-[`filled_bare_metal`]: https://github.com/KennethTrecy/abstract_chearmyp_boundary/tree/filled_bare_metal
-[Feo Template]: https://github.com/KennethTrecy/abstract_chearmyp_boundary
+[`filled_bare_metal`]: https://github.com/KennethTrecy/feo_template/tree/filled_bare_metal
+[Feo Template]: https://github.com/KennethTrecy/feo_template
 [Abstract Chearmyp Source]: https://github.com/KennethTrecy/abstract_chearmyp_source
 [MIT]: https://github.com/KennethTrecy/abstract_chearmyp_boundary/blob/master/LICENSE
 [Node.js and NPM]: https://nodejs.org/en/
