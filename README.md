@@ -30,10 +30,15 @@ features = ["no_std", "range_boundary", "vec_boundary_collection"]
 Some parts of the repository was based from [`filled_bare_metal`] branch of [Feo Template].
 
 ## Usage
-You can modify this repository's files' content or names as much as you want.
+
+### Documentation
+Run the following on the console:
+```
+cargo doc --all-features --open
+```
 
 ### Initialization
-This template should be initialized to adhere in [Conventional Commits specification] for organize
+This repository should be initialized to adhere in [Conventional Commits specification] for organize
 commits and automated generation of change log.
 
 #### Prerequisites
@@ -55,12 +60,6 @@ $ pnpm install
 To generate the change log automatically, run the command below:
 ```
 $ npx changelogen --from=[tag name or branch name or commit itself] --to=master
-```
-
-### Documentation
-Run the following on the console:
-```
-cargo doc --all-features --open
 ```
 
 ## Notes
