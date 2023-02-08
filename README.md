@@ -15,14 +15,14 @@ Add it to the dependencies:
 ```
 [dependencies.abstract_chearmyp_boundary]
 git = "https://github.com/KennethTrecy/abstract_chearmyp_boundary"
-tag = "v0.2.0"
+tag = "v1.0.0"
 ```
 
 You may also activate all the features:
 ```
 [dependencies.abstract_chearmyp_boundary]
 git = "https://github.com/KennethTrecy/abstract_chearmyp_boundary"
-tag = "v0.2.0"
+tag = "v1.0.0"
 features = ["no_std", "range_boundary", "vec_boundary_collection"]
 ```
 
